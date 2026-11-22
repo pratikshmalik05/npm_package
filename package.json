@@ -1,0 +1,16 @@
+{
+  "name": "string-toolkit-simple-pratiksh",
+  "version": "1.0.0",
+  "description": "A collection of simple and beginner-friendly string utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratikshmalik05/npm_package.git"
+  },
+  "keywords": ["string", "text", "javascript", "utilities"],
+  "author": "Pratiksh Malik",
+  "license": "MIT"
+}
